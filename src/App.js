@@ -1,6 +1,6 @@
-import {Header} from "./components/Header";
-import {Clock} from "./components/Clock";
-import {Footer} from "./components/Footer";
+import {Header} from "./components/Header"
+import {Clock} from "./components/Clock"
+import {Footer} from "./components/Footer"
 import styled from 'styled-components'
 
 // custom styling using styled-components!
