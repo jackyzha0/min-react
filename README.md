@@ -1,3 +1,5 @@
+# `min-react`
+Because `create-react-app` has way too much extra boilerplate
 
 ## Styling
 styled-components
@@ -8,4 +10,3 @@ edit in index.html
 
 ## Other Page Metadata
 index.html
-
